@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @20501001
+- 👀 I’m interested in studying
+- 🌱 I’m currently learning C++
+- MY QQ number is 1296213165
